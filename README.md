@@ -2,14 +2,14 @@
 
 Bem-vindo(a) à minha **página pessoal**, um espaço onde compartilho um pouco sobre quem sou, meus hobbies e minha trajetória no mundo da tecnologia.  
 
----
+
 
 ## ✨ Sobre o projeto  
 
 Criei este site para reunir em um só lugar informações sobre mim, meus interesses e formas de contato.  
 Ele é totalmente simples, direto e navegável, permitindo conhecer um pouco mais sobre minha história.  
 
----
+
 
 ## 📄 Estrutura das Páginas  
 
@@ -24,20 +24,20 @@ Ele é totalmente simples, direto e navegável, permitindo conhecer um pouco mai
 - **📞 Contato**  
   - Reúne todas as minhas redes sociais e formas de entrar em contato comigo  
 
----
+
 
 ## 🎨 Tecnologias utilizadas  
 
 ✅ **HTML5** para a estrutura das páginas  
 ✅ **CSS3** para o estilo e identidade visual  
 
----
+
 
 ## 🚀 Como acessar  
 
 Basta abrir o arquivo **`index.html`** no navegador para começar a navegação.  
 
----
+
 
 ## 📷 Visual  
 
